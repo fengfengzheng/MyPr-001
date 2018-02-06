@@ -1,8 +1,7 @@
-# MyPr-001   
+```
+#! /usr/bin/python3
 
-#! /usr/bin/python3            
-
-# 导入工具，减少代码阅读 
+# 导入工具，减少代码阅读
 import cards_tools
 
 # 无限循环，由用户主动决定什么时候退出系统
@@ -41,3 +40,4 @@ while True:
     # 其他内容输入错误，需要提示用户
     else:
         print("您输入的不正确，请重新选择")
+```
